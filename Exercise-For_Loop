@@ -1,0 +1,14 @@
+1. Sum of digits
+Input->				a = 123
+OUTPUT = > 1+2+3 = 6
+
+2. CHECK WETHER NO IS Armstrong or not:
+		153 = 1^3+5^3+3^3 = 3+125+27 = 153 is armstrong
+		23 = 2^3+3^3 = 8+27 = 35 not an armstrong
+
+3. Print all prime numbers between 1 to 100
+
+4. Find power of a number
+	ex - like 2 ^3 = 8
+Hacker rank->
+
